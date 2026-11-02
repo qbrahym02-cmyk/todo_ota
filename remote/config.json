@@ -1,0 +1,16 @@
+{
+  "app_title": "مهامي",
+  "primary_color": "#6750A4",
+  "announcement": {
+    "enabled": true,
+    "text": "مرحباً بك! هذه الرسالة قادمة من السيرفر – عدّلها من GitHub وستتغير فوراً 👋",
+    "color": "#FFF3CD"
+  },
+  "features": {
+    "priorities": true,
+    "search": true,
+    "stats": true,
+    "due_dates": true
+  },
+  "min_build": 0
+}
